@@ -1,10 +1,9 @@
 # Site settings
 title: *scullem
 email: scullem@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A statistician confidently tried to cross a river that was 1 meter deep on average. He drowned.
+description: "A statistician confidently tried to cross a river that was 1 meter deep on average. He drowned."
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  #scullem.github.io# the base hostname & protocol for your site
+url:  scullem.github.io# the base hostname & protocol for your site
 twitter_username: scullem
 github_username:  scullem
 
