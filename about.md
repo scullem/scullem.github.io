@@ -7,10 +7,8 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
+I'm a data professional with a background in business and marketing analytics. I bring a strong mix of experience from the quantitative (business analytics, finance, modeling) to the creative (photography, writing, design, marketing strategy). I am particularly passionate about communicating data and insights in a way that is accessible to non-technical audiences and drives business impact. My work has ranged across roles in research, campaign strategy, and customer analytics for companies ranging from Global Fortune 50 to startups.
 
 <br/>
 <hr/>
@@ -23,6 +21,6 @@ Link to your social media connections, too. This theme is set up to use <a href=
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	
 </div>
 
